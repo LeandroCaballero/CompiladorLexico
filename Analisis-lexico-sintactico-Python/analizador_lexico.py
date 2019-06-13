@@ -18,6 +18,7 @@ reservada = (
     'INT',
     'ENDL',
 )
+
 tokens = reservada + (
     'IDENTIFICADOR',
     'ENTERO',
